@@ -1,0 +1,5 @@
+# Mini Drone with Proximity Alert
+
+The Mini Drone with Proximity Alert is an advanced autonomous drone system designed to improve safety and obstacle avoidance in dynamic environments. Powered by an Arduino Pro Mini, the drone integrates ultrasonic sensors to detect obstacles in real time and triggers alert mechanisms like LED indicators, buzzers, or automated flight adjustments to prevent collisions. Optimized for portability and battery efficiency, the drone is suitable for both indoor and outdoor applications.
+
+Developed using the Arduino IDE, the system features custom algorithms for sensor data processing, proximity detection, and autonomous navigation. Additionally, Bluetooth communication enables mobile app integration for remote monitoring, control, and real-time telemetry feedback on proximity alerts and battery status. Field tests validate its reliability in avoiding obstacles, making it ideal for surveillance, search-and-rescue, and educational applications. This project presents an innovative and efficient solution for safe drone operation in complex and confined spaces.
